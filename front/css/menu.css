@@ -1,0 +1,26 @@
+.main{
+  float:left;
+  width:80%;
+  background-color: #000000;
+}
+.menu{
+  float: right;
+  width: 20%;
+  background-color: #c1c1c1;
+}
+
+.menutext{
+  font-family: ToppanBunkyuGothicPr6N-DB;
+  font-size: 3vw;
+  text-align: center;
+  color: #222207;
+}
+.topmargin{
+  margin: 40% 0 0 0;
+}
+.bottommargin{
+  margin: 15% 0 45% 0;
+}
+hr{
+  margin: 10% 8% 10% 8%;  
+}
