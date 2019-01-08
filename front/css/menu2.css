@@ -1,0 +1,26 @@
+head{
+  width:100%;
+  height:70px;
+  background-color:#00a9de;
+
+}
+.nav {
+    display: table;
+    width: 100%;
+    background: #FFF;
+}
+.nav__item {
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+}
+.nav__item + .nav__item {
+    border-left: 1px solid #CCC;
+}
+.nav__item a {
+    display: block;
+    padding: 15px 0;
+    color: #666;
+    text-decoration: none;
+    font-size: 14px;
+}
